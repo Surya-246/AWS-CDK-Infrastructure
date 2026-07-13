@@ -1,4 +1,11 @@
-# 🚀 AWS CDK Infrastructure Project
+# Author
+
+**Surya R M**
+
+MCA – Storage and Cloud Technology  
+Jain University
+
+# AWS CDK Infrastructure Project
 
 This project demonstrates Infrastructure as Code (IaC) using AWS Cloud Development Kit (CDK) and TypeScript.
 
@@ -6,7 +13,7 @@ The infrastructure automatically provisions AWS resources and deploys a simple S
 
 ---
 
-# 📌 AWS Services Used
+# AWS Services Used
 
 - Amazon EC2
 - Amazon VPC
@@ -21,7 +28,7 @@ The infrastructure automatically provisions AWS resources and deploys a simple S
 
 ---
 
-# 🏗️ Architecture
+#  Architecture
 
 ```text
 User
@@ -41,7 +48,7 @@ Amazon S3 Bucket
 
 ---
 
-# ⚙️ Features
+# Features
 
 ✅ Infrastructure as Code using AWS CDK
 
@@ -61,7 +68,7 @@ Amazon S3 Bucket
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 AWS-CDK-Infrastructure
@@ -78,7 +85,7 @@ AWS-CDK-Infrastructure
 
 ---
 
-# 🚀 Deployment Steps
+#  Deployment Steps
 
 ### Install Dependencies
 
@@ -112,7 +119,7 @@ cdk destroy
 
 ---
 
-# 🖥️ Screenshots
+# Screenshots
 
 ## EC2 Instance Deployment
 
@@ -136,7 +143,7 @@ cdk destroy
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 - Infrastructure as Code (IaC)
 - AWS Networking Concepts
@@ -148,9 +155,3 @@ cdk destroy
 
 ---
 
-# 👨‍💻 Author
-
-**Surya R M**
-
-MCA – Storage and Cloud Technology  
-Jain University
