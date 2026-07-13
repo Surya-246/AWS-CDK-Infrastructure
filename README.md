@@ -1,6 +1,5 @@
-# Author
 
-#INTERN DETAILS 
+# INTERN DETAILS 
 
    NAME : SURYA R M
    
