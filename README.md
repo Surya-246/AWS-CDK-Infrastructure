@@ -50,21 +50,21 @@ Amazon S3 Bucket
 
 # Features
 
-✅ Infrastructure as Code using AWS CDK
+ Infrastructure as Code using AWS CDK
 
-✅ Automated AWS resource provisioning
+ Automated AWS resource provisioning
 
-✅ Custom VPC with Public Subnets
+ Custom VPC with Public Subnets
 
-✅ Security Group configuration
+ Security Group configuration
 
-✅ EC2 instance deployment
+ EC2 instance deployment
 
-✅ Apache Web Server installation
+ Apache Web Server installation
+ 
+ Student Management web application hosting
 
-✅ Student Management web application hosting
-
-✅ Resource cleanup using `cdk destroy`
+ Resource cleanup using `cdk destroy`
 
 ---
 
